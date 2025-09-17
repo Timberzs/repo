@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "title": "Doğa",
+      "description": "Yeşil ağaçların olduğu huzurlu bir orman.",
+      "image_url": "https://raw.githubusercontent.com/Timberzs/repo/main/space_1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Celestial ",
+      "description": "Mas mavi ve dalgalı bir deniz.",
+      "image_url": "https://raw.githubusercontent.com/Timberzs/repo/main/space_'jpg"
+    }
+
+]
