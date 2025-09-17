@@ -1,0 +1,28 @@
+{
+  "cats": [
+    {
+      "id": 1,
+      "title": "Doğa",
+      "description": "Yeşil ağaçların olduğu huzurlu bir orman.",
+      "image_url": "https://picsum.photos/id/1018/400/300"
+    },
+    {
+      "id": 2,
+      "title": "Deniz",
+      "description": "Mas mavi ve dalgalı bir deniz.",
+      "image_url": "https://picsum.photos/id/1015/400/300"
+    },
+    {
+      "id": 3,
+      "title": "Şehir",
+      "description": "Gece ışıklarıyla parlayan bir şehir manzarası.",
+      "image_url": "https://picsum.photos/id/1016/400/300"
+    },
+    {
+      "id": 4,
+      "title": "Dağ",
+      "description": "Karlı zirvesiyle heybetli bir dağ.",
+      "image_url": "https://picsum.photos/id/1011/400/300"
+    }
+  ]
+}
