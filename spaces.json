@@ -3,91 +3,91 @@
     "id": 1,
     "title": "Süpernova 1987A",
     "description": "Yaklaşık 168.000 ışık yılı uzaklıktaki bir süpernova patlaması.",
-    "image_url": "https://picsum.photos/seed/supernova1/400/300"
+    "image_url": "https://raw.githubusercontent.com/Timberzs/repo/main/space_1.jpg"
   },
   {
     "id": 2,
     "title": "Andromeda Galaksisi",
     "description": "Samanyolu'na en yakın büyük galaksi.",
-    "image_url": "https://picsum.photos/seed/andromeda/400/300"
+    "image_url": "https://raw.githubusercontent.com/Timberzs/repo/main/space_2.jpg"
   },
   {
     "id": 3,
     "title": "Kedi Gözü Bulutsusu",
     "description": "Hubble tarafından görüntülenen ünlü gezegenimsi bulutsu.",
-    "image_url": "https://picsum.photos/seed/catseye/400/300"
+    "image_url": "https://raw.githubusercontent.com/Timberzs/repo/main/space_3.jpeg"
   },
   {
     "id": 4,
     "title": "Satürn Halkaları",
     "description": "Buz ve kaya parçalarından oluşan Satürn’ün eşsiz halkaları.",
-    "image_url": "https://picsum.photos/seed/saturn/400/300"
+    "image_url": "https://raw.githubusercontent.com/Timberzs/repo/main/space_4.jpg"
   },
   {
     "id": 5,
     "title": "Kuasar",
     "description": "Evrenin en parlak aktif galaktik çekirdeklerinden biri.",
-    "image_url": "https://picsum.photos/seed/quasar/400/300"
+    "image_url": "https://raw.githubusercontent.com/Timberzs/repo/main/space_5.png"
   },
   {
     "id": 6,
     "title": "Samanyolu Merkezi",
     "description": "Sagittarius A* kara deliğinin bulunduğu bölge.",
-    "image_url": "https://picsum.photos/seed/milkyway/400/300"
+    "image_url": "https://raw.githubusercontent.com/Timberzs/repo/main/space_6.png"
   },
   {
     "id": 7,
     "title": "Krab Bulutsusu",
     "description": "1054 yılında gözlemlenen süpernova kalıntısı.",
-    "image_url": "https://picsum.photos/seed/crabnebula/400/300"
+    "image_url": "https://raw.githubusercontent.com/Timberzs/repo/main/space_7.png"
   },
   {
     "id": 8,
     "title": "Bilinmiyor",
     "description": "Bilinmiyor.",
-    "image_url": "https://picsum.photos/seed/pulsar/400/300"
+    "image_url": "https://raw.githubusercontent.com/Timberzs/repo/main/space_8.jpg"
   },
   {
     "id": 9,
     "title": "Venüs",
     "description": "Yoğun atmosferiyle bilinen, Güneş’e en yakın ikinci gezegen.",
-    "image_url": "https://picsum.photos/seed/venus/400/300"
+    "image_url": "https://raw.githubusercontent.com/Timberzs/repo/main/space_9.jpg"
   },
   {
     "id": 10,
     "title": "Westerlund 1",
     "description": "Westerlund 1, Samanyolu’ndaki bilinen en büyük ve en kütleli yıldız kümelerinden biridir. Yaklaşık 16.000 ışık yılı uzaklıkta, Akrep (Ara) takımyıldızı yönünde yer alır. İçinde çok sayıda aşırı parlak süperdev, kırmızı dev, sarı hiperdev ve mavi dev yıldız barındırır.",
-    "image_url": "https://picsum.photos/seed/jupiter/400/300"
+    "image_url": "https://raw.githubusercontent.com/Timberzs/repo/main/space_10.jpeg"
   },
   {
     "id": 11,
     "title": "IC 1623",
     "description": "IC 1623, diğer adıyla VV 114, Samanyolu’na yaklaşık 250 milyon ışık yılı uzaklıkta bulunan bir çarpışmakta olan galaksi çiftidir.",
-    "image_url": "https://picsum.photos/seed/neptune/400/300"
+    "image_url": "https://raw.githubusercontent.com/Timberzs/repo/main/space_11.jpg"
   },
   {
     "id": 12,
     "title": "NGC 1068",
     "description": "NGC 1068 (diğer adıyla Messier 77), Balina takımyıldızı yönünde bulunan bir sarmal galaksidir",
-    "image_url": "https://picsum.photos/seed/pluto/400/300"
+    "image_url": "https://raw.githubusercontent.com/Timberzs/repo/main/space_12.jpg"
   },
   {
     "id": 13,
     "title": "Orion Bulutsusu",
     "description": "En parlak yıldız oluşum bölgelerinden biri.",
-    "image_url": "https://picsum.photos/seed/orion/400/300"
+    "image_url": "https://raw.githubusercontent.com/Timberzs/repo/main/space_13.jpg"
   },
   {
     "id": 14,
     "title": "IC 348",
     "description": "IC 348, Perseus takımyıldızında, 1.000 ışık yılı uzaklıkta, 2-3 milyon yıllık genç yıldızlardan oluşan, aktif yıldız ve gezegen oluşumuyla dolu, astronomi araştırmaları için çok önemli bir bölgesel yıldız kümesidir.",
-    "image_url": "https://picsum.photos/seed/blackhole/400/300"
+    "image_url": "https://raw.githubusercontent.com/Timberzs/repo/main/space_14.jpg"
   },
   {
     "id": 15,
     "title": "N79",
-    "description": "Kızıl gezegen, geçmişte su izleri barındırıyor olabilir.",
-    "image_url": "https://picsum.photos/seed/mars/400/300"
+    "description": "Bilinmiyor",
+    "image_url": "https://raw.githubusercontent.com/Timberzs/repo/main/space_15.jpg"
   },
   {
     "id": 16,
