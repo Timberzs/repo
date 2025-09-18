@@ -1,15 +1,302 @@
 [
-    {
-      "id": 1,
-      "title": "Doğa",
-      "description": "Yeşil ağaçların olduğu huzurlu bir orman.",
-      "image_url": "https://raw.githubusercontent.com/Timberzs/repo/main/space_1.jpg"
-    },
-    {
-      "id": 2,
-      "title": "Celestial ",
-      "description": "Mas mavi ve dalgalı bir deniz.",
-      "image_url": "https://raw.githubusercontent.com/Timberzs/repo/main/space_'jpg"
-    }
-
+  {
+    "id": 1,
+    "title": "Süpernova 1987A",
+    "description": "Yaklaşık 168.000 ışık yılı uzaklıktaki bir süpernova patlaması.",
+    "image_url": "https://picsum.photos/seed/supernova1/400/300"
+  },
+  {
+    "id": 2,
+    "title": "Andromeda Galaksisi",
+    "description": "Samanyolu'na en yakın büyük galaksi.",
+    "image_url": "https://picsum.photos/seed/andromeda/400/300"
+  },
+  {
+    "id": 3,
+    "title": "Kedi Gözü Bulutsusu",
+    "description": "Hubble tarafından görüntülenen ünlü gezegenimsi bulutsu.",
+    "image_url": "https://picsum.photos/seed/catseye/400/300"
+  },
+  {
+    "id": 4,
+    "title": "Satürn Halkaları",
+    "description": "Buz ve kaya parçalarından oluşan Satürn’ün eşsiz halkaları.",
+    "image_url": "https://picsum.photos/seed/saturn/400/300"
+  },
+  {
+    "id": 5,
+    "title": "Kuasar",
+    "description": "Evrenin en parlak aktif galaktik çekirdeklerinden biri.",
+    "image_url": "https://picsum.photos/seed/quasar/400/300"
+  },
+  {
+    "id": 6,
+    "title": "Samanyolu Merkezi",
+    "description": "Sagittarius A* kara deliğinin bulunduğu bölge.",
+    "image_url": "https://picsum.photos/seed/milkyway/400/300"
+  },
+  {
+    "id": 7,
+    "title": "Krab Bulutsusu",
+    "description": "1054 yılında gözlemlenen süpernova kalıntısı.",
+    "image_url": "https://picsum.photos/seed/crabnebula/400/300"
+  },
+  {
+    "id": 8,
+    "title": "Bilinmiyor",
+    "description": "Bilinmiyor.",
+    "image_url": "https://picsum.photos/seed/pulsar/400/300"
+  },
+  {
+    "id": 9,
+    "title": "Venüs",
+    "description": "Yoğun atmosferiyle bilinen, Güneş’e en yakın ikinci gezegen.",
+    "image_url": "https://picsum.photos/seed/venus/400/300"
+  },
+  {
+    "id": 10,
+    "title": "Westerlund 1",
+    "description": "Westerlund 1, Samanyolu’ndaki bilinen en büyük ve en kütleli yıldız kümelerinden biridir. Yaklaşık 16.000 ışık yılı uzaklıkta, Akrep (Ara) takımyıldızı yönünde yer alır. İçinde çok sayıda aşırı parlak süperdev, kırmızı dev, sarı hiperdev ve mavi dev yıldız barındırır.",
+    "image_url": "https://picsum.photos/seed/jupiter/400/300"
+  },
+  {
+    "id": 11,
+    "title": "IC 1623",
+    "description": "IC 1623, diğer adıyla VV 114, Samanyolu’na yaklaşık 250 milyon ışık yılı uzaklıkta bulunan bir çarpışmakta olan galaksi çiftidir.",
+    "image_url": "https://picsum.photos/seed/neptune/400/300"
+  },
+  {
+    "id": 12,
+    "title": "NGC 1068",
+    "description": "NGC 1068 (diğer adıyla Messier 77), Balina takımyıldızı yönünde bulunan bir sarmal galaksidir",
+    "image_url": "https://picsum.photos/seed/pluto/400/300"
+  },
+  {
+    "id": 13,
+    "title": "Orion Bulutsusu",
+    "description": "En parlak yıldız oluşum bölgelerinden biri.",
+    "image_url": "https://picsum.photos/seed/orion/400/300"
+  },
+  {
+    "id": 14,
+    "title": "IC 348",
+    "description": "IC 348, Perseus takımyıldızında, 1.000 ışık yılı uzaklıkta, 2-3 milyon yıllık genç yıldızlardan oluşan, aktif yıldız ve gezegen oluşumuyla dolu, astronomi araştırmaları için çok önemli bir bölgesel yıldız kümesidir.",
+    "image_url": "https://picsum.photos/seed/blackhole/400/300"
+  },
+  {
+    "id": 15,
+    "title": "N79",
+    "description": "Kızıl gezegen, geçmişte su izleri barındırıyor olabilir.",
+    "image_url": "https://picsum.photos/seed/mars/400/300"
+  },
+  {
+    "id": 16,
+    "title": "Ay",
+    "description": "Dünyanın tek doğal uydusu.",
+    "image_url": "https://picsum.photos/seed/moon/400/300"
+  },
+  {
+    "id": 17,
+    "title": "Merkür",
+    "description": "Güneş’e en yakın gezegen, gündüzleri çok sıcak, geceleri çok soğuk.",
+    "image_url": "https://picsum.photos/seed/mercury/400/300"
+  },
+  {
+    "id": 18,
+    "title": "Güneş",
+    "description": "Güneş sistemi merkezindeki yıldızımız.",
+    "image_url": "https://picsum.photos/seed/sun/400/300"
+  },
+  {
+    "id": 19,
+    "title": "Uranüs",
+    "description": "Ekseni neredeyse yan yatık olan buz devi gezegen.",
+    "image_url": "https://picsum.photos/seed/uranus/400/300"
+  },
+  {
+    "id": 20,
+    "title": "Exoplanet Kepler-22b",
+    "description": "Yaşanabilir bölgedeki ilk keşfedilen ötegezegenlerden biri.",
+    "image_url": "https://picsum.photos/seed/exoplanet/400/300"
+  },
+  {
+    "id": 21,
+    "title": "Helix Bulutsusu",
+    "description": "Dünyaya en yakın gezegenimsi bulutsu.",
+    "image_url": "https://picsum.photos/seed/helix/400/300"
+  },
+  {
+    "id": 22,
+    "title": "Sombrero Galaksisi",
+    "description": "Şapka şeklindeki toz şeridiyle ünlü spiral galaksi.",
+    "image_url": "https://picsum.photos/seed/sombrero/400/300"
+  },
+  {
+    "id": 23,
+    "title": "Büyük Macellan Bulutu",
+    "description": "Samanyolu’nun uydu galaksilerinden biri.",
+    "image_url": "https://picsum.photos/seed/lmc/400/300"
+  },
+  {
+    "id": 24,
+    "title": "Küçük Macellan Bulutu",
+    "description": "Samanyolu’na bağlı düzensiz bir uydu galaksi.",
+    "image_url": "https://picsum.photos/seed/smc/400/300"
+  },
+  {
+    "id": 25,
+    "title": "Yengeç Takımyıldızı",
+    "description": "Zodyak kuşağında yer alan takımyıldız.",
+    "image_url": "https://picsum.photos/seed/cancer/400/300"
+  },
+  {
+    "id": 26,
+    "title": "Kuzey Işıkları",
+    "description": "Dünya atmosferinde oluşan büyüleyici aurora fenomeni.",
+    "image_url": "https://picsum.photos/seed/aurora/400/300"
+  },
+  {
+    "id": 27,
+    "title": "Süper Kütleli Kara Delik",
+    "description": "Galaksilerin merkezinde bulunan dev kara delikler.",
+    "image_url": "https://picsum.photos/seed/smbh/400/300"
+  },
+  {
+    "id": 28,
+    "title": "Büyük Ayı Takımyıldızı",
+    "description": "Kuzey yarımkürede görülen ünlü takımyıldız.",
+    "image_url": "https://picsum.photos/seed/ursa/400/300"
+  },
+  {
+    "id": 29,
+    "title": "Hubble Ultra Deep Field",
+    "description": "Evrenin en uzak galaksilerini gösteren görüntü.",
+    "image_url": "https://picsum.photos/seed/hubble/400/300"
+  },
+  {
+    "id": 30,
+    "title": "Carina Bulutsusu",
+    "description": "Yeni yıldızların doğduğu devasa bulutsu.",
+    "image_url": "https://picsum.photos/seed/carina/400/300"
+  },
+  {
+    "id": 31,
+    "title": "M87 Galaksisi",
+    "description": "Event Horizon Teleskobu tarafından fotoğraflanan kara deliğin bulunduğu galaksi.",
+    "image_url": "https://picsum.photos/seed/m87/400/300"
+  },
+  {
+    "id": 32,
+    "title": "Altair Yıldızı",
+    "description": "Kartal takımyıldızındaki en parlak yıldızlardan biri.",
+    "image_url": "https://picsum.photos/seed/altair/400/300"
+  },
+  {
+    "id": 33,
+    "title": "Betelgeuse",
+    "description": "Orion takımyıldızında bulunan kırmızı süperdev yıldız.",
+    "image_url": "https://picsum.photos/seed/betelgeuse/400/300"
+  },
+  {
+    "id": 34,
+    "title": "Sirius",
+    "description": "Gökyüzünün en parlak yıldızı.",
+    "image_url": "https://picsum.photos/seed/sirius/400/300"
+  },
+  {
+    "id": 35,
+    "title": "Vega",
+    "description": "Lir takımyıldızının en parlak yıldızı.",
+    "image_url": "https://picsum.photos/seed/vega/400/300"
+  },
+  {
+    "id": 36,
+    "title": "Rigel",
+    "description": "Orion takımyıldızında bulunan mavi süperdev yıldız.",
+    "image_url": "https://picsum.photos/seed/rigel/400/300"
+  },
+  {
+    "id": 37,
+    "title": "Proxima Centauri",
+    "description": "Güneş’e en yakın yıldız.",
+    "image_url": "https://picsum.photos/seed/proxima/400/300"
+  },
+  {
+    "id": 38,
+    "title": "Alpha Centauri",
+    "description": "Güneş’e en yakın yıldız sistemi.",
+    "image_url": "https://picsum.photos/seed/alphacentauri/400/300"
+  },
+  {
+    "id": 39,
+    "title": "Kuiper Kuşağı",
+    "description": "Neptün’ün ötesindeki buzlu cisimlerin bulunduğu bölge.",
+    "image_url": "https://picsum.photos/seed/kuiper/400/300"
+  },
+  {
+    "id": 40,
+    "title": "Oort Bulutu",
+    "description": "Güneş sistemini saran uzak buzlu cisimler bölgesi.",
+    "image_url": "https://picsum.photos/seed/oort/400/300"
+  },
+  {
+    "id": 41,
+    "title": "Hale-Bopp Kuyrukluyıldızı",
+    "description": "20. yüzyılın en parlak kuyrukluyıldızlarından biri.",
+    "image_url": "https://picsum.photos/seed/halebopp/400/300"
+  },
+  {
+    "id": 42,
+    "title": "Halley Kuyrukluyıldızı",
+    "description": "76 yılda bir görülen ünlü kuyrukluyıldız.",
+    "image_url": "https://picsum.photos/seed/halley/400/300"
+  },
+  {
+    "id": 43,
+    "title": "Ceres",
+    "description": "Asteroit kuşağındaki en büyük cüce gezegen.",
+    "image_url": "https://picsum.photos/seed/ceres/400/300"
+  },
+  {
+    "id": 44,
+    "title": "Eris",
+    "description": "Plüton’dan biraz daha büyük olan uzak bir cüce gezegen.",
+    "image_url": "https://picsum.photos/seed/eris/400/300"
+  },
+  {
+    "id": 45,
+    "title": "Haumea",
+    "description": "Elips şeklindeki hızlı dönen cüce gezegen.",
+    "image_url": "https://picsum.photos/seed/haumea/400/300"
+  },
+  {
+    "id": 46,
+    "title": "Makemake",
+    "description": "Kuiper Kuşağı’nda bulunan cüce gezegen.",
+    "image_url": "https://picsum.photos/seed/makemake/400/300"
+  },
+  {
+    "id": 47,
+    "title": "Trappist-1 Sistemi",
+    "description": "Birden fazla yaşanabilir ötegezegene sahip yıldız sistemi.",
+    "image_url": "https://picsum.photos/seed/trappist/400/300"
+  },
+  {
+    "id": 48,
+    "title": "Sagittarius A*",
+    "description": "Samanyolu’nun merkezindeki süper kütleli kara delik.",
+    "image_url": "https://picsum.photos/seed/sagittarius/400/300"
+  },
+  {
+    "id": 49,
+    "title": "Magnetar",
+    "description": "Son derece güçlü manyetik alanlara sahip nötron yıldızı türü.",
+    "image_url": "https://picsum.photos/seed/magnetar/400/300"
+  },
+  {
+    "id": 50,
+    "title": "Evrenin Kozmik Mikrodalga Artalan Işıması",
+    "description": "Büyük Patlama’dan kalan fosil radyasyon.",
+    "image_url": "https://picsum.photos/seed/cmb/400/300"
+  }
 ]
