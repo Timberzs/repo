@@ -93,7 +93,7 @@
     "id": 16,
     "title": "Ay",
     "description": "Dünya'nın tek doğal uydusu olan Ay, yaklaşık 384.400 km uzaklıktadır. Yüzeyi kraterler, lav düzlükleri ve tozla kaplıdır. İnsanoğlunun ilk kez ayak bastığı gök cismidir.",
-    "image_url": "https://svs.gsfc.nasa.gov/vis/a000005/a000004_a000005/apollo11_11h56m20s.jpg"
+    "image_url": "https://eos.org/wp-content/uploads/2023/11/age-of-moon.jpg"
   },
   {
     "id": 17,
@@ -117,55 +117,55 @@
     "id": 20,
     "title": "Exoplanet Kepler-22b",
     "description": "Kepler Uzay Teleskobu tarafından keşfedilen, Dünya’dan yaklaşık 600 ışık yılı uzakta, yaşanabilir bölgede yer alan süper-Dünya sınıfı bir ötegezegen.",
-    "image_url": "https://www.jpl.nasa.gov/images/kepler/20111205/pia15193-16.jpg"
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/astro/exo-explore/2024/03/Kepler22b.jpg?w=1600&h=900&fit=clip&crop=faces%2Cfocalpoint"
   },
   {
     "id": 21,
     "title": "Helix Bulutsusu",
     "description": "Dünya’ya yaklaşık 700 ışık yılı uzaklıkta bulunan, ‘Tanrı’nın gözü’ olarak da bilinen en yakın ve en büyük gezegenimsi bulutsulardan biri.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Helix_Nebula.jpg/1920px-Helix_Nebula.jpg"
+    "image_url": "https://cdn.eso.org/images/screen/eso1205a.jpg"
   },
   {
     "id": 22,
     "title": "Sombrero Galaksisi",
     "description": "Messier 104 olarak da bilinir. Kalın toz şeridi ve parlak merkeziyle şapkaya benzer görünümüyle ünlü sarmal bir galaksidir.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Messier104_Hubble.jpg/1920px-Messier104_Hubble.jpg"
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sombrero_Galaxy_in_infrared_light_%28Hubble_Space_Telescope_and_Spitzer_Space_Telescope%29.jpg/1280px-Sombrero_Galaxy_in_infrared_light_%28Hubble_Space_Telescope_and_Spitzer_Space_Telescope%29.jpg"
   },
   {
     "id": 23,
     "title": "Büyük Macellan Bulutu",
     "description": "Samanyolu’nun en büyük uydusu olan düzensiz cüce galaksi. Yaklaşık 160.000 ışık yılı uzaklıkta ve çıplak gözle görülebilir.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Large_Magellanic_Cloud.jpg/1920px-Large_Magellanic_Cloud.jpg"
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Magellanic_Clouds_―_Irregular_Dwarf_Galaxies.jpg"
   },
   {
     "id": 24,
     "title": "Küçük Macellan Bulutu",
     "description": "Samanyolu’nun ikinci büyük uydusu. Büyük Macellan Bulutu’ndan daha küçük ve daha uzaktır. Güney yarımkürede çıplak gözle görülebilir.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Small_Magellanic_Cloud.jpg/1920px-Small_Magellanic_Cloud.jpg"
+    "image_url": "https://www.mos.org/sites/default/files/styles/max_width_2400/public/2024-11/NGC_602_NIRCam_and_MIRI_image_credit_ESA-NASA-CSA-P_Zeidler-E_Sabbi-A_Nota-M_Zamani.jpg?itok=uGm8O8Ae"
   },
   {
     "id": 25,
     "title": "Yengeç Takımyıldızı",
     "description": "Zodyak takımyıldızlarından biri. İçinde Messier 44 (Arı Kovanı) ve Messier 67 gibi önemli açık yıldız kümeleri barındırır.",
-    "image_url": "https://apod.nasa.gov/apod/image/2207/CancerConstellation_Roedl_960.jpg"
+    "image_url": "https://npr.brightspotcdn.com/dims4/default/3e47dec/2147483647/strip/true/crop/4608x3456+0+0/resize/880x660!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7f%2F0b%2F631910e1437d83fee8f6946e6954%2Fadobestock-188157350.jpeg"
   },
   {
     "id": 26,
     "title": "Kuzey Işıkları",
     "description": "Aurora borealis olarak da bilinir. Güneş rüzgarlarının Dünya’nın manyetosferiyle etkileşimi sonucu kutup bölgelerinde oluşan ışık gösterisidir.",
-    "image_url": "https://apod.nasa.gov/apod/image/2304/AuroraIceland_Sigurdsson_960.jpg"
+    "image_url": "https://cdn.mos.cms.futurecdn.net/57jQMDN5MZLYfV8ps8HuZQ-1200-80.jpg"
   },
   {
     "id": 27,
     "title": "Süper Kütleli Kara Delik",
     "description": "Milyonlarca hatta milyarlarca Güneş kütlesine sahip, galaksilerin merkezlerinde bulunan dev kara delikler. Samanyolu’nunki Sagittarius A*’dır.",
-    "image_url": "https://eventhorizontelescope.org/sites/default/files/styles/16x9_2x/public/inline-images/eso2208a.jpg"
+    "image_url": "https://storage.evrimagaci.org/old/content_media/31024b2aa4f66bd6f9a266ac027e1eef.jpg"
   },
   {
     "id": 28,
     "title": "Büyük Ayı Takımyıldızı",
     "description": "Kuzey gökyüzünün en tanınmış takımyıldızlarından biri. İçindeki yedi yıldız ‘Kovşan’ veya ‘Saptı’ olarak bilinen bir desen oluşturur.",
-    "image_url": "https://apod.nasa.gov/apod/image/2203/UrsaMajor_Roedl_960.jpg"
+    "image_url": "https://www.star-registration.com/cdn/shop/articles/24_Grosser-Baer_00dd08e1-4f0b-4241-93a2-ee9fa92c3c6c_1200x1200.jpg?v=1748065012"
   },
   {
     "id": 29,
