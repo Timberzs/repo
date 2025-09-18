@@ -92,211 +92,211 @@
   {
     "id": 16,
     "title": "Ay",
-    "description": "Dünyanın tek doğal uydusu.",
-    "image_url": "https://picsum.photos/seed/moon/400/300"
+    "description": "Dünya'nın tek doğal uydusu olan Ay, yaklaşık 384.400 km uzaklıktadır. Yüzeyi kraterler, lav düzlükleri ve tozla kaplıdır. İnsanoğlunun ilk kez ayak bastığı gök cismidir.",
+    "image_url": "https://svs.gsfc.nasa.gov/vis/a000005/a000004_a000005/apollo11_11h56m20s.jpg"
   },
   {
     "id": 17,
     "title": "Merkür",
-    "description": "Güneş’e en yakın gezegen, gündüzleri çok sıcak, geceleri çok soğuk.",
-    "image_url": "https://picsum.photos/seed/mercury/400/300"
+    "description": "Güneş Sistemi’nin en küçük ve Güneş’e en yakın gezegeni. Atmosferi neredeyse yoktur; gündüz sıcaklıkları 430°C’ye, geceleri -180°C’ye düşer.",
+    "image_url": "https://photojournal.jpl.nasa.gov/jpeg/PIA19430.jpg"
   },
   {
     "id": 18,
     "title": "Güneş",
-    "description": "Güneş sistemi merkezindeki yıldızımız.",
-    "image_url": "https://picsum.photos/seed/sun/400/300"
+    "description": "Güneş Sistemi’nin merkezinde yer alan, yaklaşık 4,6 milyar yaşında bir G-tipi yıldızdır. Dünya’daki yaşamın temel enerji kaynağıdır.",
+    "image_url": "https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_0193.jpg"
   },
   {
     "id": 19,
     "title": "Uranüs",
-    "description": "Ekseni neredeyse yan yatık olan buz devi gezegen.",
-    "image_url": "https://picsum.photos/seed/uranus/400/300"
+    "description": "Ekseni neredeyse yörüngesi düzlemine paralel olan ‘yan yatık’ buz devi. Atmosferinde metan gazı, gezegene mavi-yeşil rengini verir.",
+    "image_url": "https://photojournal.jpl.nasa.gov/jpeg/PIA00032.jpg"
   },
   {
     "id": 20,
     "title": "Exoplanet Kepler-22b",
-    "description": "Yaşanabilir bölgedeki ilk keşfedilen ötegezegenlerden biri.",
-    "image_url": "https://picsum.photos/seed/exoplanet/400/300"
+    "description": "Kepler Uzay Teleskobu tarafından keşfedilen, Dünya’dan yaklaşık 600 ışık yılı uzakta, yaşanabilir bölgede yer alan süper-Dünya sınıfı bir ötegezegen.",
+    "image_url": "https://www.jpl.nasa.gov/images/kepler/20111205/pia15193-16.jpg"
   },
   {
     "id": 21,
     "title": "Helix Bulutsusu",
-    "description": "Dünyaya en yakın gezegenimsi bulutsu.",
-    "image_url": "https://picsum.photos/seed/helix/400/300"
+    "description": "Dünya’ya yaklaşık 700 ışık yılı uzaklıkta bulunan, ‘Tanrı’nın gözü’ olarak da bilinen en yakın ve en büyük gezegenimsi bulutsulardan biri.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Helix_Nebula.jpg/1920px-Helix_Nebula.jpg"
   },
   {
     "id": 22,
     "title": "Sombrero Galaksisi",
-    "description": "Şapka şeklindeki toz şeridiyle ünlü spiral galaksi.",
-    "image_url": "https://picsum.photos/seed/sombrero/400/300"
+    "description": "Messier 104 olarak da bilinir. Kalın toz şeridi ve parlak merkeziyle şapkaya benzer görünümüyle ünlü sarmal bir galaksidir.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Messier104_Hubble.jpg/1920px-Messier104_Hubble.jpg"
   },
   {
     "id": 23,
     "title": "Büyük Macellan Bulutu",
-    "description": "Samanyolu’nun uydu galaksilerinden biri.",
-    "image_url": "https://picsum.photos/seed/lmc/400/300"
+    "description": "Samanyolu’nun en büyük uydusu olan düzensiz cüce galaksi. Yaklaşık 160.000 ışık yılı uzaklıkta ve çıplak gözle görülebilir.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Large_Magellanic_Cloud.jpg/1920px-Large_Magellanic_Cloud.jpg"
   },
   {
     "id": 24,
     "title": "Küçük Macellan Bulutu",
-    "description": "Samanyolu’na bağlı düzensiz bir uydu galaksi.",
-    "image_url": "https://picsum.photos/seed/smc/400/300"
+    "description": "Samanyolu’nun ikinci büyük uydusu. Büyük Macellan Bulutu’ndan daha küçük ve daha uzaktır. Güney yarımkürede çıplak gözle görülebilir.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Small_Magellanic_Cloud.jpg/1920px-Small_Magellanic_Cloud.jpg"
   },
   {
     "id": 25,
     "title": "Yengeç Takımyıldızı",
-    "description": "Zodyak kuşağında yer alan takımyıldız.",
-    "image_url": "https://picsum.photos/seed/cancer/400/300"
+    "description": "Zodyak takımyıldızlarından biri. İçinde Messier 44 (Arı Kovanı) ve Messier 67 gibi önemli açık yıldız kümeleri barındırır.",
+    "image_url": "https://apod.nasa.gov/apod/image/2207/CancerConstellation_Roedl_960.jpg"
   },
   {
     "id": 26,
     "title": "Kuzey Işıkları",
-    "description": "Dünya atmosferinde oluşan büyüleyici aurora fenomeni.",
-    "image_url": "https://picsum.photos/seed/aurora/400/300"
+    "description": "Aurora borealis olarak da bilinir. Güneş rüzgarlarının Dünya’nın manyetosferiyle etkileşimi sonucu kutup bölgelerinde oluşan ışık gösterisidir.",
+    "image_url": "https://apod.nasa.gov/apod/image/2304/AuroraIceland_Sigurdsson_960.jpg"
   },
   {
     "id": 27,
     "title": "Süper Kütleli Kara Delik",
-    "description": "Galaksilerin merkezinde bulunan dev kara delikler.",
-    "image_url": "https://picsum.photos/seed/smbh/400/300"
+    "description": "Milyonlarca hatta milyarlarca Güneş kütlesine sahip, galaksilerin merkezlerinde bulunan dev kara delikler. Samanyolu’nunki Sagittarius A*’dır.",
+    "image_url": "https://eventhorizontelescope.org/sites/default/files/styles/16x9_2x/public/inline-images/eso2208a.jpg"
   },
   {
     "id": 28,
     "title": "Büyük Ayı Takımyıldızı",
-    "description": "Kuzey yarımkürede görülen ünlü takımyıldız.",
-    "image_url": "https://picsum.photos/seed/ursa/400/300"
+    "description": "Kuzey gökyüzünün en tanınmış takımyıldızlarından biri. İçindeki yedi yıldız ‘Kovşan’ veya ‘Saptı’ olarak bilinen bir desen oluşturur.",
+    "image_url": "https://apod.nasa.gov/apod/image/2203/UrsaMajor_Roedl_960.jpg"
   },
   {
     "id": 29,
     "title": "Hubble Ultra Deep Field",
-    "description": "Evrenin en uzak galaksilerini gösteren görüntü.",
-    "image_url": "https://picsum.photos/seed/hubble/400/300"
+    "description": "Hubble Uzay Teleskobu’nun 2004’te uzayın küçük bir bölgesini 1 milyon saniye boyunca gözlemleyerek oluşturduğu görüntü. Binlerce galaksiyi gösterir.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hubble_ultra_deep_field.jpg/1920px-Hubble_ultra_deep_field.jpg"
   },
   {
     "id": 30,
     "title": "Carina Bulutsusu",
-    "description": "Yeni yıldızların doğduğu devasa bulutsu.",
-    "image_url": "https://picsum.photos/seed/carina/400/300"
+    "description": "Samanyolu içinde, yaklaşık 7.500 ışık yılı uzaklıkta yer alan devasa bir yıldız oluşum bölgesi. Eta Carinae gibi dev yıldızları barındırır.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Carina_Nebula_by_JWST.jpg/1920px-Carina_Nebula_by_JWST.jpg"
   },
   {
     "id": 31,
     "title": "M87 Galaksisi",
-    "description": "Event Horizon Teleskobu tarafından fotoğraflanan kara deliğin bulunduğu galaksi.",
-    "image_url": "https://picsum.photos/seed/m87/400/300"
+    "description": "Virgo kümesindeki dev eliptik galaksi. Merkezindeki süper kütleli kara deliğin (M87*) ilk görüntüsü 2019’da Event Horizon Teleskobu tarafından çekildi.",
+    "image_url": "https://eventhorizontelescope.org/sites/default/files/styles/16x9_2x/public/inline-images/eso1907a.jpg"
   },
   {
     "id": 32,
     "title": "Altair Yıldızı",
-    "description": "Kartal takımyıldızındaki en parlak yıldızlardan biri.",
-    "image_url": "https://picsum.photos/seed/altair/400/300"
+    "description": "Kartal (Aquila) takımyıldızının en parlak yıldızı. Sadece 16,7 ışık yılı uzaklıkta olup, çok hızlı dönen bir A-tipi yıldızdır.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Altair_-_Digitized_Sky_Survey.jpg/1920px-Altair_-_Digitized_Sky_Survey.jpg"
   },
   {
     "id": 33,
     "title": "Betelgeuse",
-    "description": "Orion takımyıldızında bulunan kırmızı süperdev yıldız.",
-    "image_url": "https://picsum.photos/seed/betelgeuse/400/300"
+    "description": "Orion takımyıldızında yer alan kırmızı süperdev yıldız. Yaklaşık 640 ışık yılı uzaklıkta olup, gelecekte süpernova patlaması beklenen dev bir yıldızdır.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Betelgeuse_Hubble.jpg/1920px-Betelgeuse_Hubble.jpg"
   },
   {
     "id": 34,
     "title": "Sirius",
-    "description": "Gökyüzünün en parlak yıldızı.",
-    "image_url": "https://picsum.photos/seed/sirius/400/300"
+    "description": "Gökyüzünün en parlak yıldızı. Büyük Köpek takımyıldızında yer alır. 8,6 ışık yılı uzaklıkta olup, çift yıldız sistemidir (Sirius A ve B).",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Sirius_A_and_B_Hubble_photo.jpg/1920px-Sirius_A_and_B_Hubble_photo.jpg"
   },
   {
     "id": 35,
     "title": "Vega",
-    "description": "Lir takımyıldızının en parlak yıldızı.",
-    "image_url": "https://picsum.photos/seed/vega/400/300"
+    "description": "Lir takımyıldızının en parlak yıldızı ve yaz üçgeninin bir köşesidir. Sadece 25 ışık yılı uzaklıkta olup, genç ve parlak bir A-tipi yıldızdır.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Vega_Hubble.jpg/1920px-Vega_Hubble.jpg"
   },
   {
     "id": 36,
     "title": "Rigel",
-    "description": "Orion takımyıldızında bulunan mavi süperdev yıldız.",
-    "image_url": "https://picsum.photos/seed/rigel/400/300"
+    "description": "Orion takımyıldızında bulunan mavi süperdev yıldız. Sirius’tan sonra gece gökyüzünün en parlak yıldızlarından biridir. 860 ışık yılı uzaktadır.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Rigel_Hubble.jpg/1920px-Rigel_Hubble.jpg"
   },
   {
     "id": 37,
     "title": "Proxima Centauri",
-    "description": "Güneş’e en yakın yıldız.",
-    "image_url": "https://picsum.photos/seed/proxima/400/300"
+    "description": "Güneş’e en yakın yıldız, sadece 4,24 ışık yılı uzaklıkta. Kırmızı cüce yıldız olup, yaşanabilir bölgede bir gezegeni (Proxima b) vardır.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Proxima_Centauri_Hubble.jpg/1920px-Proxima_Centauri_Hubble.jpg"
   },
   {
     "id": 38,
     "title": "Alpha Centauri",
-    "description": "Güneş’e en yakın yıldız sistemi.",
-    "image_url": "https://picsum.photos/seed/alphacentauri/400/300"
+    "description": "Güneş’e en yakın yıldız sistemi. Üç yıldızdan oluşur: Alpha Centauri A, B ve Proxima Centauri. Çıplak gözle tek yıldız gibi görünür.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Alpha_Centauri_system.jpg/1920px-Alpha_Centauri_system.jpg"
   },
   {
     "id": 39,
     "title": "Kuiper Kuşağı",
-    "description": "Neptün’ün ötesindeki buzlu cisimlerin bulunduğu bölge.",
-    "image_url": "https://picsum.photos/seed/kuiper/400/300"
+    "description": "Neptün yörüngesinin ötesinde, buzlu cisimlerin yoğunlaştığı bölge. Plüton, Haumea, Makemake gibi cüce gezegenler burada bulunur.",
+    "image_url": "https://solarsystem.nasa.gov/system/resources/detail_files/2439_kuiper-belt-1920.jpg"
   },
   {
     "id": 40,
     "title": "Oort Bulutu",
-    "description": "Güneş sistemini saran uzak buzlu cisimler bölgesi.",
-    "image_url": "https://picsum.photos/seed/oort/400/300"
+    "description": "Güneş Sistemi’nin en dış sınırını oluşturan, kuyrukluyıldızların anavatanı kabul edilen teorik bir buzlu cisimler bulutu. 50.000-100.000 AU uzaklıkta.",
+    "image_url": "https://solarsystem.nasa.gov/system/resources/detail_files/2440_oort-cloud-1920.jpg"
   },
   {
     "id": 41,
     "title": "Hale-Bopp Kuyrukluyıldızı",
-    "description": "20. yüzyılın en parlak kuyrukluyıldızlarından biri.",
-    "image_url": "https://picsum.photos/seed/halebopp/400/300"
+    "description": "1997’de çıplak gözle 18 ay boyunca görülebilen, 20. yüzyılın en parlak kuyrukluyıldızlarından biri. Yörüngesi yaklaşık 2.500 yıldır.",
+    "image_url": "https://apod.nasa.gov/apod/image/9704/halebopp_970402_big.jpg"
   },
   {
     "id": 42,
     "title": "Halley Kuyrukluyıldızı",
-    "description": "76 yılda bir görülen ünlü kuyrukluyıldız.",
-    "image_url": "https://picsum.photos/seed/halley/400/300"
+    "description": "76 yılda bir Güneş’e yaklaşan en ünlü periyodik kuyrukluyıldız. Son geçişi 1986’da oldu, bir sonraki 2061’de görülecek.",
+    "image_url": "https://apod.nasa.gov/apod/image/9705/halley_eso_big.jpg"
   },
   {
     "id": 43,
     "title": "Ceres",
-    "description": "Asteroit kuşağındaki en büyük cüce gezegen.",
-    "image_url": "https://picsum.photos/seed/ceres/400/300"
+    "description": "Asteroit kuşağında yer alan tek cüce gezegen. 2015’te NASA’nın Dawn uzay aracı tarafından detaylı olarak incelendi. Yüzeyinde buz ve tuzlu göller tespit edildi.",
+    "image_url": "https://photojournal.jpl.nasa.gov/jpeg/PIA22098.jpg"
   },
   {
     "id": 44,
     "title": "Eris",
-    "description": "Plüton’dan biraz daha büyük olan uzak bir cüce gezegen.",
-    "image_url": "https://picsum.photos/seed/eris/400/300"
+    "description": "Plüton’dan biraz daha büyük olan cüce gezegen. Kuiper Kuşağı’nın ötesinde, 2005’te keşfedildi ve Plüton’un cüce gezegen statüsüne geçmesine neden oldu.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Eris_and_Dysnomia.jpg/1920px-Eris_and_Dysnomia.jpg"
   },
   {
     "id": 45,
     "title": "Haumea",
-    "description": "Elips şeklindeki hızlı dönen cüce gezegen.",
-    "image_url": "https://picsum.photos/seed/haumea/400/300"
+    "description": "Kuiper Kuşağı’nda yer alan, hızlı dönen elips şeklinde bir cüce gezegen. İki uydusu vardır ve halka sistemiyle bilinir.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Haumea_artistic_impression.jpg/1920px-Haumea_artistic_impression.jpg"
   },
   {
     "id": 46,
     "title": "Makemake",
-    "description": "Kuiper Kuşağı’nda bulunan cüce gezegen.",
-    "image_url": "https://picsum.photos/seed/makemake/400/300"
+    "description": "Kuiper Kuşağı’nda bulunan, yüzeyi metan buzlarıyla kaplı cüce gezegen. 2005’te keşfedildi ve Plüton benzeri özelliklere sahiptir.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Makemake_and_MK2.jpg/1920px-Makemake_and_MK2.jpg"
   },
   {
     "id": 47,
     "title": "Trappist-1 Sistemi",
-    "description": "Birden fazla yaşanabilir ötegezegene sahip yıldız sistemi.",
-    "image_url": "https://picsum.photos/seed/trappist/400/300"
+    "description": "Yaklaşık 40 ışık yılı uzaklıkta, yedi karasal gezegen barındıran soğuk kırmızı cüce yıldız sistemi. Üç gezegeni yaşanabilir bölgededir.",
+    "image_url": "https://www.jpl.nasa.gov/images/universe/20170222/pia21425-16.jpg"
   },
   {
     "id": 48,
     "title": "Sagittarius A*",
-    "description": "Samanyolu’nun merkezindeki süper kütleli kara delik.",
-    "image_url": "https://picsum.photos/seed/sagittarius/400/300"
+    "description": "Samanyolu Galaksisi’nin merkezindeki süper kütleli kara delik. Kütlesi yaklaşık 4 milyon Güneş kütlesidir. 2022’de ilk görüntüsü yayınlandı.",
+    "image_url": "https://eventhorizontelescope.org/sites/default/files/styles/16x9_2x/public/inline-images/eso2208a.jpg"
   },
   {
     "id": 49,
     "title": "Magnetar",
-    "description": "Son derece güçlü manyetik alanlara sahip nötron yıldızı türü.",
-    "image_url": "https://picsum.photos/seed/magnetar/400/300"
+    "description": "Nötron yıldızlarının en manyetik türü. Bir çay kaşığı maddesi Dünya’daki tüm insanlığın kütlesine eşdeğer olabilir. Nadiren patlamalar yapar.",
+    "image_url": "https://chandra.si.edu/photo/2020/magnetar/magnetar_1000.jpg"
   },
   {
     "id": 50,
     "title": "Evrenin Kozmik Mikrodalga Artalan Işıması",
-    "description": "Büyük Patlama’dan kalan fosil radyasyon.",
-    "image_url": "https://picsum.photos/seed/cmb/400/300"
+    "description": "Büyük Patlama’dan yaklaşık 380.000 yıl sonra yayılan ve bugün mikrodalga dalgaboyunda gözlenen ‘fosil ışınım’. Evrenin bebeklik fotoğrafı olarak bilinir.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WMAP_2012.png/1920px-WMAP_2012.png"
   }
 ]
