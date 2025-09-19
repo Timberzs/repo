@@ -1,27 +1,56 @@
 [
     {
       "id": 1,
-      "title": "Doğa",
-      "description": "Yeşil ağaçların olduğu huzurlu bir orman.",
+      "title": "Bilinmiyor",
+      "description": "Bilinmiyor",
       "image_url": "https://raw.githubusercontent.com/Timberzs/repo/main/images%20(1).jpeg"
     },
     {
       "id": 2,
-      "title": "Deniz",
-      "description": "Mas mavi ve dalgalı bir deniz.",
+      "title": "Bilinmiyor",
+      "description": "Bilinmiyor",
       "image_url": "https://raw.githubusercontent.com/Timberzs/repo/main/images.jpeg"
     },
-    {
-      "id": 3,
-      "title": "Şehir",
-      "description": "Gece ışıklarıyla parlayan bir şehir manzarası.",
-      "image_url": "https://raw.githubusercontent.com/Timberzs/repo/main/images%20(1).jpeg"
-    },
-    {
-      "id": 4,
-      "title": "Dağ",
-      "description": "Karlı zirvesiyle heybetli bir dağ.",
-      "image_url": "https://raw.githubusercontent.com/Timberzs/repo/main/images.jpeg"
-    }
-
+{
+  "id": 3,
+  "title": "Bilinmiyor",
+  "description": "Bilinmiyor",
+  "image_url": "https://www.reddit.com/media?url=https%3A%2F%2Fexternal-preview.redd.it%2FCZuTDMqhCBJbTZEwCFJ0E-lvoCGIiemMHQ23vC9_3Hk.jpg%3Fauto%3Dwebp%26s%3D4dce8b057b3e91fe608ff072d8c4c31d07a06302"
+},
+{
+  "id": 4,
+  "title": "Bilinmiyor",
+  "description": "Bilinmiyor",
+  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtbsDl3N-OugZk7gW3kWdIQbhmZMMrVU0bnKcFAq97aI110F7ZMNhl6G9x7UNYsWkazgQ&usqp=CAU"
+},
+{
+  "id": 5,
+  "title": "Bilinmiyor",
+  "description": "Bilinmiyor",
+  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF2SotFJ63ay_hhRftgzxjv-onHwcbsY46B08Opu9TsMNTMmQTk1puZvNbLl3bvyvjS90&usqp=CAU"
+},
+{
+  "id": 6,
+  "title": "Bilinmiyor",
+  "description": "Bilinmiyor",
+  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCyegbqbvjn4TneYhH6Ods7MCcMOeixXjneVBSW71ii1ODOkh7UbEaBPkOyvYZtaumjmQ&usqp=CAU"
+},
+{
+  "id": 7,
+  "title": "Bilinmiyor",
+  "description": "Bilinmiyor",
+  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlHDYmkhXksJTF5UnI7DPlQHrFzPsZnGNFlnh8hym-j5oTzAKK3iFWMvFnydOm9u0rrxQ&usqp=CAU"
+},
+{
+  "id": 8,
+  "title": "Bilinmiyor",
+  "description": "Bilinmiyor",
+  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjXbKHSk5Qmd6SmgxCGiafbGvUtAyNddkyXdKv49h2rnudHF7837i3L2XZtT13XHDtdik&usqp=CAU"
+},
+{
+  "id": 9,
+  "title": "Bilinmiyor",
+  "description": "Bilinmiyor",
+  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-zHVf9bAD5KJqd4nDTboUvUKatiMdCzOvqg&s"
+}
 ]
